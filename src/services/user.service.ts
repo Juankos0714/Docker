@@ -1,6 +1,6 @@
 import { IUser, IUserRegister } from '../types/user.types';
 
-// This is a mock service. In a real application, you would connect to a database
+
 export class UserService {
   private users: IUser[] = [];
 
